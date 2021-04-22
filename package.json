@@ -1,0 +1,23 @@
+{
+  "name": "packeg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LLStudent83/packeg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LLStudent83/packeg/issues"
+  },
+  "homepage": "https://github.com/LLStudent83/packeg#readme",
+  "dependencies": {
+    "@LLstudent83/ajs": "^1.0.0"
+  }
+}
